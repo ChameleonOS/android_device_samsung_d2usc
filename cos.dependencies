@@ -12,10 +12,10 @@
     "branch": "cm-10.1"
   },
   {
-    "project": "CyanogenMod",
+    "project": "ChameleonOS",
     "repository": "android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
-    "branch": "cm-10.1"
+    "branch": "jellybean-mr1"
   },
   {
     "project": "CyanogenMod",
@@ -24,10 +24,10 @@
     "branch": "cm-10.1"
   },
   {
-    "project": "TheMuppets",
-    "repository": "proprietary_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "branch": "cm-10.1"
+    "project": "ChameleonOS",
+    "repository": "android_vendor_samsung_d2r530",
+    "target_path": "vendor/samsung/d2r530",
+    "branch": "jellybean-mr1"
   }
 ]
 
